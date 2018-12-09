@@ -1,0 +1,17 @@
+DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=6.2.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
+DevExpress.XtraEditors.ComboBoxEdit, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.RatingControl, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.CheckEdit, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraTreeList.TreeList, DevExpress.XtraTreeList.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.TileControl, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.TextEdit, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Xpo.XPDataView, DevExpress.Xpo.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.PictureEdit, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraLayout.LayoutControl, DevExpress.XtraLayout.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraDataLayout.DataLayoutControl, DevExpress.XtraLayout.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraRichEdit.RichEditControl, DevExpress.XtraRichEdit.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.FormAssistant, DevExpress.XtraBars.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraBars.Ribbon.RibbonControl, DevExpress.XtraBars.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraVerticalGrid.VGridControl, DevExpress.XtraVerticalGrid.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraEditors.ProgressBarControl, DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.XtraSpreadsheet.SpreadsheetControl, DevExpress.XtraSpreadsheet.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a

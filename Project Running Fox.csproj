@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{93403082-1092-4234-A971-54011730645F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjectRunningFox</RootNamespace>
+    <AssemblyName>ProjectRunningFox</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>150242337184352.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.DataAccess.v14.2.UI, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.Xpo.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Office.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Persistent.Base.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.SpellChecker.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Spreadsheet.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v14.2.UI, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v14.2.Extensions, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v14.2.Core, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v14.2.Extensions, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraSpellChecker.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraSpreadsheet.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v14.2, Version=14.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IrcClient">
+      <HintPath>..\..\..\IRC Client\Program\IrcClient.dll</HintPath>
+    </Reference>
+    <Reference Include="PS3Lib">
+      <HintPath>..\..\..\..\..\..\PS3Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="ps3tmapi_net">
+      <HintPath>..\..\..\..\..\Dropbox\My Stuff\Programming\Sources\Call of Duty Ghosts RTM\Call of Duty Ghosts RTM\bin\Debug\ps3tmapi_net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\EbootLibrary.cs" />
+    <Compile Include="Classes\Conditionals.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Games\Assassins Creed Rogue\Offsets.cs" />
+    <Compile Include="Games\Battlefield 3\Offsets.cs" />
+    <Compile Include="Games\Battlefield 4\Offsets.cs" />
+    <Compile Include="Games\Battlefield Hardline\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Advanced Warfare\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Advanced Warfare\RPC.cs" />
+    <Compile Include="Games\Call of Duty Advanced Warfare\Scripts.cs" />
+    <Compile Include="Games\Call of Duty Advanced Warfare\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Advanced Warfare\SetStats.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\ClassNames.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\Levels.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\Lib.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\offsets.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\PS3.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\RPC.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\SetModZM.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\SetStats.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 2\UnlockAll.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 3\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 3\RPC.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 3\Scripts.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 3\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Black Ops 3\SetStats.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\RPC.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\RPC2.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\Scripts.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\SetStats.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\UnlockAll.cs" />
+    <Compile Include="Games\Call of Duty Black Ops\UnlockTrophies.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\OtherMods.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\RPC.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\Scripts.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Ghosts\SetStats.cs" />
+    <Compile Include="Games\Call of Duty Modern Warfare\Offsets.cs" />
+    <Compile Include="Games\Call of Duty Modern Warfare\RPC.cs" />
+    <Compile Include="Games\Call of Duty Modern Warfare\Scripts.cs" />
+    <Compile Include="Games\Call of Duty Modern Warfare\SetMod.cs" />
+    <Compile Include="Games\Call of Duty Modern Warfare\SetStats.cs" />
+    <Compile Include="Games\Call of Duty MW2\Lib.cs" />
+    <Compile Include="Games\Call of Duty MW2\Offsets.cs" />
+    <Compile Include="Games\Call of Duty MW2\PS3.cs" />
+    <Compile Include="Games\Call of Duty MW2\RPC.cs" />
+    <Compile Include="Games\Call of Duty MW2\Scripts.cs" />
+    <Compile Include="Games\Call of Duty MW2\SetMod.cs" />
+    <Compile Include="Games\Call of Duty MW2\SetStats.cs" />
+    <Compile Include="Games\Call of Duty MW3\SetMod.cs" />
+    <Compile Include="Games\Call of Duty MW3\SetStats.cs" />
+    <Compile Include="Games\Call of Duty World at War\SetMod.cs" />
+    <Compile Include="Games\Call of Duty World at War\SetStats.cs" />
+    <Compile Include="Games\Far Cry 4\Offsets.cs" />
+    <Compile Include="Games\Grand Theft Auto SA\Offsets.cs" />
+    <Compile Include="Games\Call of Duty MW3\Offsets.cs" />
+    <Compile Include="Games\Call of Duty MW3\RPC.cs" />
+    <Compile Include="Games\Call of Duty MW3\Scripts.cs" />
+    <Compile Include="Games\Call of Duty MW3\UnlockAll.cs" />
+    <Compile Include="Games\Call of Duty World at War\Functions.cs" />
+    <Compile Include="Games\Call of Duty World at War\Offsets.cs" />
+    <Compile Include="Games\Call of Duty World at War\RPC.cs" />
+    <Compile Include="Games\Call of Duty World at War\Scripts.cs" />
+    <Compile Include="Games\Dark Souls 2\Offsets.cs" />
+    <Compile Include="Games\Grand Theft Auto V\Natives.cs" />
+    <Compile Include="Games\Grand Theft Auto V\Offsets.cs" />
+    <Compile Include="Games\Grand Theft Auto V\Ranks.cs" />
+    <Compile Include="Games\Grand Theft Auto V\RPC.cs" />
+    <Compile Include="Games\Just Cause 2\Offsets.cs" />
+    <Compile Include="Games\Minecraft\Offsets.cs" />
+    <Compile Include="Games\Red Dead Redemption\Offsets.cs" />
+    <Compile Include="Games\Skate 3\Offsets.cs" />
+    <Compile Include="Games\Skyrim\Offsets.cs" />
+    <Compile Include="Games\South Park The Stick of Truth\Offsets.cs" />
+    <Compile Include="Games\The Last of Us\Offsets.cs" />
+    <Compile Include="Classes\MainInterface.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Tutorial.cs" />
+    <Compile Include="Classes\TileSettings.cs" />
+    <Compile Include="Classes\ToolSettings.cs" />
+    <Compile Include="Classes\SettingsOnLoad.cs" />
+    <Compile Include="Classes\SettingsOnClosing.cs" />
+    <EmbeddedResource Include="Form1.ar.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FarCry41.jpg" />
+    <None Include="Resources\FarCryCase1.jpg" />
+    <None Include="Resources\Eboots_Library_V2.jpg" />
+    <None Include="Resources\Arrow %28right%29.jpg" />
+    <None Include="Resources\GTASA-Case.jpg" />
+    <None Include="Resources\GTA_San_Andreas_Kovrilo.jpg" />
+    <None Include="Resources\RogueCase.jpg" />
+    <None Include="Resources\ACROGUE.png" />
+    <None Include="Resources\Avatar3.png" />
+    <None Include="Resources\Avatar2.png" />
+    <None Include="Resources\Avatar1.png" />
+    <None Include="Resources\Avatar4.png" />
+    <None Include="Resources\Avatar5.png" />
+    <None Include="Resources\gta_IV_logo_transparent_49.png" />
+    <None Include="Resources\Eboots_Library.jpg" />
+    <None Include="Resources\EbootImages.jpg" />
+    <None Include="Resources\EbootImage5.png" />
+    <None Include="Resources\EbootImage2.jpg" />
+    <None Include="Resources\EbootImage24.jpg" />
+    <None Include="Resources\EbootImage23.png" />
+    <None Include="Resources\EbootImage22.png" />
+    <None Include="Resources\EbootImage21.jpg" />
+    <None Include="Resources\EbootImage20.jpg" />
+    <None Include="Resources\EbootImage19.jpg" />
+    <None Include="Resources\EbootImage18.png" />
+    <None Include="Resources\EbootImage17.jpg" />
+    <None Include="Resources\EbootImage16.jpg" />
+    <None Include="Resources\EbootImage15.jpg" />
+    <None Include="Resources\EbootImage14.jpg" />
+    <None Include="Resources\EbootImage13.jpg" />
+    <None Include="Resources\EbootImage12.jpg" />
+    <None Include="Resources\Ebootimage11.jpg" />
+    <None Include="Resources\EbootImage10.png" />
+    <None Include="Resources\EbootImage9.jpg" />
+    <None Include="Resources\EbootImage8.jpg" />
+    <None Include="Resources\EbootImage7.jpg" />
+    <None Include="Resources\EbootImage6.jpg" />
+    <None Include="Resources\EbootImage5.jpg" />
+    <None Include="Resources\EbootImage4.jpg" />
+    <None Include="Resources\EbootImage3.jpg" />
+    <None Include="Resources\EbootImage1.jpg" />
+    <None Include="Resources\Contact Us Icon.jpg" />
+    <None Include="Resources\Settings Icon.jpg" />
+    <None Include="Resources\JC2Case.jpg" />
+    <None Include="Resources\red_fox122.jpg" />
+    <None Include="Resources\Skate3Case.jpg" />
+    <None Include="Resources\SR3Case.jpg" />
+    <None Include="Resources\SPCase.jpg" />
+    <None Include="Resources\SkyrimCase.jpg" />
+    <None Include="Resources\RDRCase.jpg" />
+    <None Include="Resources\MW3Case.jpg" />
+    <None Include="Resources\MW2Case.jpg" />
+    <None Include="Resources\MCCase.jpg" />
+    <None Include="Resources\GTAVCase.jpg" />
+    <None Include="Resources\GTA4Case.jpg" />
+    <None Include="Resources\GhostsCase.jpg" />
+    <None Include="Resources\DS2Case.jpg" />
+    <None Include="Resources\COD4Case.jpg" />
+    <None Include="Resources\BO3Case.jpg" />
+    <None Include="Resources\BO1Case.jpg" />
+    <None Include="Resources\BL2Case.jpg" />
+    <None Include="Resources\BFHardlineCase.jpg" />
+    <None Include="Resources\BFBC2Case.jpg" />
+    <None Include="Resources\BF4Case.jpg" />
+    <None Include="Resources\BF3Case.jpg" />
+    <None Include="Resources\AWCase.jpg" />
+    <None Include="Resources\WAWCase.jpg" />
+    <None Include="Resources\TLOUCase.jpg" />
+    <None Include="Resources\custom_settings-512.png" />
+    <None Include="Resources\1502423371843522.png" />
+    <None Include="Resources\red_fox121.jpg" />
+    <None Include="Resources\1502423371843521.png" />
+    <None Include="Resources\normal_Call_of_Duty_-_Black_Ops~1.png" />
+    <None Include="Resources\Battlefield-Hardline-PNG-HD334.png" />
+    <None Include="Resources\Battlefield_4_logo.png" />
+    <None Include="Resources\battlefield_3_text_logo_png_by_ahmed7193-d45xqxz.png" />
+    <None Include="Resources\bfbc2-logo-pt.png" />
+    <None Include="Resources\Red-Dead-Redemption-1.png" />
+    <None Include="Resources\borderlands-2logo.png" />
+    <None Include="Resources\Saints-Row-The-Third-Name-Logo-1-psd67279.png" />
+    <None Include="Resources\The-Elder-Scrolls-V-Skyrim-PNG-File.png" />
+    <None Include="Resources\justcause2-header.png" />
+    <None Include="Resources\Skate_3_logo.png" />
+    <None Include="Resources\Minecraft-logo-transparent-background-ut05tirq.png" />
+    <None Include="Resources\The_Last_of_Us_Logo_2.png" />
+    <None Include="Resources\logo-dark-souls.png" />
+    <None Include="Resources\2593_south-park-the-stick-of-truth-prev.png" />
+    <None Include="Resources\gta_v_logo_transparent_49.png" />
+    <None Include="Resources\Call_of_Duty_Ghosts.png" />
+    <None Include="Resources\31646419-bo3-logonvadfnvja-820x400.png" />
+    <None Include="Resources\callofduty4-logo-large.png" />
+    <None Include="Resources\Call-of-Duty-Black-Ops-PNG-Transparent-Image.png" />
+    <None Include="Resources\Call-of-Duty-5-World-of-War-Thompson-Machine-Gunner-Firing.png~c200.png" />
+    <None Include="Resources\640px_Call_of_Duty_Advanced_Warfare_Logo.png" />
+    <None Include="Resources\1280px-ModernWarfare3Logo.svg.png" />
+    <None Include="Resources\logo-4.png" />
+    <None Include="Resources\14881606141.png" />
+    <None Include="Resources\1488160614.png" />
+    <None Include="Resources\Gear_-_Noun_project_7137.svg2.png" />
+    <None Include="Resources\Gear_-_Noun_project_7137.svg1.png" />
+    <None Include="Resources\Gear_-_Noun_project_7137.svg.png" />
+    <None Include="Resources\CoDWW_Logo_%28transparent%29.png" />
+    <None Include="Resources\Post-it_Notes-512.png" />
+    <None Include="Resources\disconnect-512.png" />
+    <None Include="Resources\gtk-close.png" />
+    <None Include="Resources\back-undo-return-button-png-5.png" />
+    <None Include="Resources\150242337184352.ico" />
+    <None Include="Resources\150242337184352.png" />
+    <None Include="Resources\red_fox12.jpg" />
+    <None Include="Resources\playstation-3-art.jpg" />
+    <None Include="Resources\maxresdefault.jpg" />
+    <None Include="Resources\fondtu10.jpg" />
+    <None Include="Resources\Notepad-logo.png" />
+    <None Include="Resources\filezilla-logo-800x400-750x400.png" />
+    <None Include="Resources\newlogow.png" />
+    <None Include="Resources\87964724814713893173.jpg" />
+    <None Include="Resources\PS3ITA.jpg" />
+    <None Include="Resources\rdr.jpg" />
+    <None Include="Resources\borderlands-2-logo-no-background-wallpaper-4.jpg" />
+    <None Include="Resources\saints-row-the-third-logo.jpg" />
+    <None Include="Resources\Skyrim-Logo.jpg" />
+    <None Include="Resources\scorpion-logo.jpg" />
+    <None Include="Resources\skate-3-boxart-logo-17.jpg" />
+    <None Include="Resources\mc.jpg" />
+    <None Include="Resources\34288-grand-theft-auto-iv.jpg" />
+    <None Include="Resources\THELA.jpeg" />
+    <None Include="Resources\dark-souls-II-logo.jpg" />
+    <None Include="Resources\StickOfTruthLogo-Small.jpg" />
+    <None Include="Resources\GTA5-Article-Top.jpg" />
+    <None Include="Resources\140e773b-5011-4810-ba67-6efa9eb6b124.jpg" />
+    <None Include="Resources\battlefield-4-logo.jpg" />
+    <None Include="Resources\battlefield-3.jpg" />
+    <None Include="Resources\Battlefield-Bad-Company-2.png" />
+    <None Include="Resources\call_of_duty_ghost_wallpaper_by_creatoricon-d6vfk91.jpg" />
+    <None Include="Resources\black-ops-3-logo.jpg" />
+    <None Include="Resources\maxresdefault1.jpg" />
+    <None Include="Resources\call-of-duty-black-ops-logo-vectorgames---call-of-duty-black-ops-wallpapers-hd-wallpapers-msxu0qig.jpg" />
+    <None Include="Resources\38700915-call-of-duty-advanced-warfare-wallpapers.png" />
+    <None Include="Resources\COD-MW3-logo.jpg" />
+    <None Include="Resources\th.jpg" />
+    <None Include="Resources\Big-Icon4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Games\Borderlands 2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="150242337184352.ico" />
+    <None Include="Resources\Screenshot_2.png" />
+    <None Include="Resources\Screenshot_1.png" />
+    <None Include="Resources\kisspng-online-chat-computer-icons-chat-room-discussion-gr-science-fiction-fonts-5ad82abf9325e4.9522915215241161596027.jpg" />
+    <None Include="Resources\call_of_duty_black_ops_2_zombies_logo_another_2nd__by_josael281999-d7e3tk1.png" />
+    <None Include="Resources\Zombie_7.png" />
+    <None Include="Resources\bo2case.jpg" />
+    <None Include="Resources\bo2tile.jpg" />
+    <None Include="Resources\call_of_duty__black_ops_ii__text__by_imperial96-d66bqbr.png" />
+    <None Include="Resources\section1_blue.jpg" />
+    <None Include="Resources\580b57fbd9996e24bc43bbfa.png" />
+    <None Include="Resources\Running-fox-silhouette-KcjeeEndi.gif" />
+    <None Include="Resources\farcry4_temple_entrance_by_donglu_yu_additions_01.jpg" />
+    <None Include="Resources\grand_theft_auto_san_andreas_conceptart_Xncfw.jpg" />
+    <None Include="Resources\acr_08_by_drazebot-d8a5djz.jpg" />
+    <None Include="Resources\Dragon Quest Monsters Joker 2 OST - Doubtback.wav" />
+    <None Include="Resources\Arrow%28right%291.png" />
+    <None Include="Resources\Arrow%28right%29.png" />
+    <None Include="Resources\Arrow %28right%291.jpg" />
+    <None Include="Resources\Arrowrightdown1.png" />
+    <None Include="Resources\red-arrow-curved-upright.gif" />
+    <None Include="Resources\Arrowrightdown.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

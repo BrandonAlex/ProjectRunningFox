@@ -1,0 +1,63 @@
+﻿<XtraSerializer version="1.0" application="TileControl">
+  <property name="Groups" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Items" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Name">tileItem9</property>
+          <property name="Id">0</property>
+          <property name="CurrentFrameIndex">0</property>
+          <property name="Elements" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text" />
+            </property>
+          </property>
+          <property name="FrameAnimationInterval">3000</property>
+          <property name="Frames" iskey="true" value="0" />
+          <property name="ItemSize">Medium</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="Name">tileItem10</property>
+          <property name="Id">1</property>
+          <property name="CurrentFrameIndex">0</property>
+          <property name="Elements" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text" />
+            </property>
+          </property>
+          <property name="FrameAnimationInterval">3000</property>
+          <property name="Frames" iskey="true" value="0" />
+          <property name="ItemSize">Medium</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="Name">tileItem11</property>
+          <property name="Id">2</property>
+          <property name="CurrentFrameIndex">0</property>
+          <property name="Elements" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text" />
+            </property>
+          </property>
+          <property name="FrameAnimationInterval">3000</property>
+          <property name="Frames" iskey="true" value="0" />
+          <property name="ItemSize">Medium</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="Name">tileItem12</property>
+          <property name="Id">3</property>
+          <property name="CurrentFrameIndex">0</property>
+          <property name="Elements" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="Text" />
+            </property>
+          </property>
+          <property name="FrameAnimationInterval">3000</property>
+          <property name="Frames" iskey="true" value="0" />
+          <property name="ItemSize">Medium</property>
+        </property>
+      </property>
+      <property name="Name">tileGroup3</property>
+      <property name="Text" />
+      <property name="Visible">true</property>
+    </property>
+  </property>
+</XtraSerializer>

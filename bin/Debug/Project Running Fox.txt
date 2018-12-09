@@ -1,0 +1,38 @@
+Project Running Fox - BETA 1.0
+
+Description: Project Running Fox is multi-game Real Time Modding (RTM) tool for Custom Firmware Playstation 3's. Apart from the 25 games (listed below) it currently supports 
+it also has useful links, quick Access to important programs and other great features. The sole purpose of Project Running Fox is to deliver a fast and advanced modding  
+experience to the user in one tool.
+
+Background: I first thought of making Project Running Fox shortly after my very first Black Ops 2 tool, but wanted to save it for my last PS3 tool. I got the initial GUI
+idea from Rawdogs BO2 and Ghosts tool, and the games are layed out similiar to Nextgenupdates game forum. 
+
+Future Updates: There will definitely be future updates! But they will not occur until i finish Army AIT.
+
+
+Supported Games:
+- Call of Duty: World at War
+- Call of Duty: MW2
+- Call of Duty: Mw3
+- Call of Duty: Black Ops
+- Call of Duty: Modern Warfare
+- Call of Duty: Black Ops 3
+- Call of Duty: Ghosts
+- Call of Duty: Advanced Warfare
+- Assassins creed rogue
+- Battlefield 3
+- Battlefield 4
+- Battlefield: Hardline
+- Grand Theft Auto San Andreas
+- Grand Theft Auto V
+- Dark Souls 2
+- The Last of Us
+- Minecraft
+- Skate 3
+- Just Cause 2
+- Skyrim
+- Farcry4
+- Borderlands 2
+- Red Dead Redemption
+ 
+

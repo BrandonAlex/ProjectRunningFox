@@ -1,0 +1,465 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProjectRunningFox.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApplicationSkinName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PrintUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowUser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Standard Edition</Value>
+    </Setting>
+    <Setting Name="UserName1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Opacity" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="label1Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 14.25pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="label1Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="label1BColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Transparent</Value>
+    </Setting>
+    <Setting Name="Time" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DisplayUpdates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TileBGColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBG2Color" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBGBorderC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBG2ColorS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBGColorS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBGBorderCS" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBG2ColorH" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBGColorH" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBGBorderH" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileFontNormal" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TileFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TextorImage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Header1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Call of Duty Series</Value>
+    </Setting>
+    <Setting Name="Header2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Battlefield &amp;&amp; Assassin's Creed</Value>
+    </Setting>
+    <Setting Name="Header3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Popular Games</Value>
+    </Setting>
+    <Setting Name="Header4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Classic Games</Value>
+    </Setting>
+    <Setting Name="Header5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other Games</Value>
+    </Setting>
+    <Setting Name="Header6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Settings and Options</Value>
+    </Setting>
+    <Setting Name="Header7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Useful Links</Value>
+    </Setting>
+    <Setting Name="Header8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Other Tools</Value>
+    </Setting>
+    <Setting Name="Preset1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset1Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset2Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset3Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="iPrintLnText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Preset4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset4Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset5Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset6Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset7Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset8Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset9Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset10Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset11Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset12Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset13Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset14Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset15Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset16Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset17Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset18Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="AllLabelsFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AllLabelsForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ClientListFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClientListColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TextBoxesFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TextBoxesForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ButtonsFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ButtonsForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckBoxesFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckBoxesForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TGFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TGForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckButtonFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckButtonForeCOlor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpinEditFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpinEditForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Preset19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset19Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset20Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset21Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset22Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset23Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset24Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="CasePictures" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FirstRun" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Tutorial" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CornerChecks" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Hotkey1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E</Value>
+    </Setting>
+    <Setting Name="Preset25" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset25Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset26" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset26Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset27" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset27Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="FlashInterval" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="SliderInterval" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="SkipperInterval" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="RainBowInterval" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="UserTilesCreated" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TileText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">The Tile</Value>
+    </Setting>
+    <Setting Name="TilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TileFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Tahoma, 8.25pt</Value>
+    </Setting>
+    <Setting Name="TileFC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="TileBG" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Maroon</Value>
+    </Setting>
+    <Setting Name="AvatarIndex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MemberStatus" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PreferredAPI" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PreferredAPI1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BETACountDown" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HotKey2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TilePath1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TileText1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TilePath2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TileText2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Tips" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RPCinitialize" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="GenerateUnmandatory" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ImageUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="chatBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="chatForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="chatFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="usersOnlineBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="usersOnlineForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="usersOnlineFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="messageBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="messageForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="messageFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="remainAnonymous" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autoClearChat" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Preset28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset28Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset29" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset29Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset30" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="Preset30Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)">???</Value>
+    </Setting>
+    <Setting Name="SeasonalTheme" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EnableURLAvatar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CCAPIMessage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

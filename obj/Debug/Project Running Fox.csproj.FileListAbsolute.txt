@@ -1,0 +1,296 @@
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form2.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csproj.GenerateResource.Cache
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.ar.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\System.Data.Linq.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form2.resources
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.ar.resources
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csproj.GenerateResource.Cache
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+C:\Users\Brandon\Desktop\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\System.Data.Linq.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csprojResolveAssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.ar.resources
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\Project Running Fox.csproj.GenerateResource.Cache
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\obj\Debug\ar\ProjectRunningFox.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Charts.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.DataAccess.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.DataAccess.v14.2.UI.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.ExpressApp.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.ExpressApp.Xpo.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Persistent.Base.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.SpellChecker.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Spreadsheet.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.UI.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Xpo.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraCharts.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraGrid.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraLayout.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraNavBar.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraPrinting.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraReports.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraReports.v14.2.Extensions.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraRichEdit.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.Core.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.Extensions.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraSpellChecker.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraSpreadsheet.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraTreeList.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.DataAccess.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.DataAccess.v14.2.UI.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.SpellChecker.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Spreadsheet.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.UI.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Xpo.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraCharts.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraGrid.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraLayout.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraNavBar.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraPrinting.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraReports.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraReports.v14.2.Extensions.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraRichEdit.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.Core.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraScheduler.v14.2.Extensions.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraSpellChecker.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraSpreadsheet.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraTreeList.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraVerticalGrid.v14.2.xml
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.DataAccess.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.DataAccess.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.DataAccess.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.DataAccess.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.DataAccess.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.DataAccess.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.DataAccess.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.DataAccess.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.ExpressApp.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.ExpressApp.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.ExpressApp.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.ExpressApp.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Spreadsheet.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Spreadsheet.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Spreadsheet.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Spreadsheet.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.UI.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Xpo.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Xpo.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Xpo.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Xpo.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraCharts.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraCharts.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraCharts.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraCharts.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraLayout.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraNavBar.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraPrinting.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraReports.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraReports.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraReports.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraReports.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraReports.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraReports.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraReports.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraReports.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraRichEdit.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraRichEdit.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraRichEdit.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraRichEdit.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraScheduler.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraScheduler.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraScheduler.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraScheduler.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraScheduler.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraScheduler.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraScheduler.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraScheduler.v14.2.Core.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraScheduler.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraScheduler.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraScheduler.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraScheduler.v14.2.Extensions.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraSpellChecker.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraSpellChecker.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraSpellChecker.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraSpellChecker.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraSpreadsheet.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraSpreadsheet.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraSpreadsheet.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraSpreadsheet.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraTreeList.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraVerticalGrid.v14.2.resources.dll
+C:\Users\brand\OneDrive\Desktop\My Files\Programming\Sources\Project Running Fox [CREATOR]\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraVerticalGrid.v14.2.resources.dll

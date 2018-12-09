@@ -1,0 +1,1548 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.DataAccess.v14.2.UI</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.DataAccess.UI.Localization.DataAccessUIResLocalizer">
+
+            <summary>
+                <para>A default localizer to translate UI resources for the Data Access library.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUIResLocalizer.#ctor">
+            <summary>
+                <para>Initializes a new instance of the DataAccessUIResLocalizer class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUIResLocalizer.GetLocalizedString(DevExpress.DataAccess.UI.Localization.DataAccessUIStringId)">
+            <summary>
+                <para>Gets the string, localized by the current DataAccessUIResLocalizer, for the specified user interface element.
+</para>
+            </summary>
+            <param name="id">
+		A <see cref="T:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId"/> enumeration value specifying the UI element whose caption (text) is to be localized.
+
+            </param>
+            <returns>A <see cref="T:System.String"/> that is the text to be displayed within the specified UI element.
+
+</returns>
+
+
+        </member>
+        <member name="P:DevExpress.DataAccess.UI.Localization.DataAccessUIResLocalizer.Language">
+            <summary>
+                <para>Returns the name of the language currently used by this localizer object.
+</para>
+            </summary>
+            <value>A <see cref="T:System.String"/> value that specifies the language of the user interface localization.
+</value>
+
+
+        </member>
+        <member name="T:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer">
+
+            <summary>
+                <para>Provides the means to localize the user interface provided by Data Access library.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer.#ctor">
+            <summary>
+                <para>Initializes a new instance of the DataAccessUILocalizer class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer.Active">
+            <summary>
+                <para>Gets or sets a localizer object providing localization of the user interface at runtime.
+</para>
+            </summary>
+            <value>An <see cref="T:DevExpress.Utils.Localization.XtraLocalizer`1"/> descendant used to localize the user interface at runtime. 
+</value>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer.CreateDefaultLocalizer">
+            <summary>
+                <para>Returns an  <b>XtraLocalizer</b> object representing default resources, based on the thread's language and regional settings (culture). 
+</para>
+            </summary>
+            <returns>A <see cref="T:DevExpress.Utils.Localization.XtraLocalizer`1"/> object representing resources based on the thread's culture.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer.CreateResXLocalizer">
+            <summary>
+                <para>Returns an <b>XtraLocalizer</b> object representing resources based on the thread's language and regional settings (culture).
+</para>
+            </summary>
+            <returns>An <see cref="T:DevExpress.Utils.Localization.XtraLocalizer`1"/> object representing resources based on the thread's culture.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Localization.DataAccessUILocalizer.GetString(DevExpress.DataAccess.UI.Localization.DataAccessUIStringId)">
+            <summary>
+                <para>Gets the string, localized by the current DataAccessUILocalizer, for the specified user interface element.
+</para>
+            </summary>
+            <param name="id">
+		A <see cref="T:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId"/> enumeration value specifying the UI element whose caption (text) is to be localized.
+
+            </param>
+            <returns>A <see cref="T:System.String"/> that is the text to be displayed within the specified UI element.
+
+</returns>
+
+
+        </member>
+        <member name="T:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId">
+
+            <summary>
+                <para>Contains values corresponding to strings that can be localized.
+</para>
+            </summary>
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ConnectionEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Connection Editor"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ConnectionErrorFormDetailPattern">
+            <summary>
+                <para><b>Default value</b>: "Connection name: {0}nError message: {1}"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.DataSourceName">
+            <summary>
+                <para><b>Default value</b>: "Data source name: {0}"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.DefaultNameParameter">
+            <summary>
+                <para><b>Default value</b>: "Parameter"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.DSTypeEF">
+            <summary>
+                <para><b>Default value</b>: "Entity Framework"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.DSTypeObject">
+            <summary>
+                <para><b>Default value</b>: "Object Binding"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.DSTypeSql">
+            <summary>
+                <para><b>Default value</b>: "Database"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFConnectionEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Entity Framework Data Connection Editor"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFDataMemberEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Entity Framework Data Member Editor"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFDataSourceDesignerVerbEdit">
+            <summary>
+                <para><b>Default value</b>: "Edit..."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFDataSourceEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Entity Framework Data Source Editor"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFEditorsNoStoredProcs">
+            <summary>
+                <para><b>Default value:</b> "No stored procedures are available in the data context."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.EFStoredProcsEditorTitle">
+            <summary>
+                <para><b>Default value:</b> "Manage Stored Procedures"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ErrorFormDatasourceInitializationText">
+            <summary>
+                <para><b>Default value</b>: "Unable to load data into one or several datasources. See information below for details."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorEmptyColumnText">
+            <summary>
+                <para><b>Default value</b>: "&lt;Select a column&gt;"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorEmptyTableText">
+            <summary>
+                <para><b>Default value</b>: "&lt;Select a table&gt;"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorEqualOperator">
+            <summary>
+                <para><b>Default value</b>: "Equals to"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorFillAllFieldsException">
+            <summary>
+                <para><b>Default value</b>: "Some fields are empty. Please fill all empty fields or remove the corresponding conditions to proceed."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorGreaterOperator">
+            <summary>
+                <para><b>Default value</b>: "Is greater than"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorGreaterOrEqualOperator">
+            <summary>
+                <para><b>Default value</b>: "Is greater than or equal to"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorLessOperator">
+            <summary>
+                <para><b>Default value</b>: "Is less than"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorLessOrEqualOperator">
+            <summary>
+                <para><b>Default value</b>: "Is less than or equal to"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.JoinEditorNotEqualOperator">
+            <summary>
+                <para><b>Default value</b>: "Does not equal to"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDataCustomError">
+            <summary>
+                <para><b>Default value</b>: "Error message:\r\n{0}\r\n"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDataException">
+            <summary>
+                <para><b>Default value:</b> "Data loading failed because the exception occurred."
+
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDataSourceAborted">
+            <summary>
+                <para><b>Default value</b>: "Data loading has been aborted."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDataSourceOpeningConnectionError">
+            <summary>
+                <para><b>Default value</b>: "Connection name: {0}\r\nError message:\r\n{1}\r\n"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDatasourceOutOfMemoryError">
+            <summary>
+                <para><b>Default value</b>: "Not enough memory to load data"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.LoadingDataSqlError">
+            <summary>
+                <para><b>Default value</b>: "SQL execution error:\r\n{0}\r\n"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorAddConditionMessage">
+            <summary>
+                <para><b>Default value:</b> "Create a new condition"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorAddRelationMessage">
+            <summary>
+                <para><b>Default value:</b> "Add a relation to the detail query"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorInvalidColumnNameMessage">
+            <summary>
+                <para><b>Default value:</b> "Cannot find the specified column: \"{0}\". Specify an existing column name."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorInvalidColumnQueryNameMessage">
+            <summary>
+                <para><b>Default value:</b> "Cannot find the specified query: \"{0}\". Specify an existing query name before selecting a column."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorInvalidQueryNameMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot find the specified query: \"{0}\". Specify an existing query name."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorInvalidRelationNameMessage">
+            <summary>
+                <para><b>Default value:</b> "A relation with the specified name already exists."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorRemoveConditionMessage">
+            <summary>
+                <para><b>Default value:</b> "Remove the condition"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MasterDetailEditorRemoveRelationMessage">
+            <summary>
+                <para><b>Default value:</b> "Remove the relation"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MessageBoxConfirmationTitle">
+            <summary>
+                <para><b>Default value</b>: "Confirmation"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MessageBoxErrorTitle">
+            <summary>
+                <para><b>Default value</b>: "Error"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MessageBoxWarningTitle">
+            <summary>
+                <para><b>Default value</b>: "Warning"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MessageLessThanTwoQueries">
+            <summary>
+                <para><b>Default value</b>: "At least two queries are required to create a master-detail relation."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.MessageMissingConnection">
+            <summary>
+                <para><b>Default value</b>: "No connection has been specified."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSConstructorEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Configure Constructor Settings"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSDataMemberEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Configure Data Member"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSDataSourceEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Configure Data Source"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsAbstractTypeMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot use a constructor to create an object of the {0} type that is a static or abstract class, or interface."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsCannotResolveDataMember">
+            <summary>
+                <para><b>Default value</b>: "Cannot resolve the specified data member. To specify the data member and its parameters, use the Data Member editor."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsCannotResolveDataSource">
+            <summary>
+                <para><b>Default value</b>: "Cannot resolve the specified object type. To specify the object's assembly, return type, data member and/or constructor parameters, use the Data Source editor."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsIsPropertyMessage">
+            <summary>
+                <para><b>Default value</b>: "The {0} data member is a property. To be able to receive parameters, a data member must be a method."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsNoDataMemberMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot specify parameters unless the DataMember property has been assigned a value."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsNoDataSetMessage">
+            <summary>
+                <para><b>Default value</b>: "The current operation cannot be accomplished unless the data source has been specified."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsNoMembersInType">
+            <summary>
+                <para><b>Default value</b>: "The {0} data source type does not provide any members suitable for binding."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsNoParametersMessage">
+            <summary>
+                <para><b>Default value</b>: "The {0} data member cannot receive parameters, because this is a method without parameters."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSEditorsStaticMemberMessage">
+            <summary>
+                <para><b>Default value</b>: "{0} is a static member. Using a constructor to create an instance of the {1} class is not appropriate."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.ODSParametersEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Configure Parameters"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlAliasAlreadyExists">
+            <summary>
+                <para><b>Default value</b>: "The specified alias already exists. Do you want to correct the value?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlDataPreviewCaption">
+            <summary>
+                <para><b>Default value</b>: "Data Preview (First 1000 Rows Displayed)"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlExpressionChanged">
+            <summary>
+                <para><b>Default value</b>: "This action will reset the SQL expression, and all your changes will be discarded. Do you wish to continue?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlJoinCommandPattern">
+            <summary>
+                <para><b>Default value:</b> "Join {0}"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlNoSelection">
+            <summary>
+                <para><b>Default value</b>: "No column has been selected. Please select at least one column to proceed."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlRemoveTables">
+            <summary>
+                <para><b>Default value</b>: "The following tables will be removed from the query.\r\n\r\n{0}\r\nDo you wish to continue?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlTableNameAlreadyExists">
+            <summary>
+                <para><b>Default value</b>: "A table with the specified name already exists. Please specify a different table name."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryDesignControlTableNameEmpty">
+            <summary>
+                <para><b>Default value</b>: "The table name cannot be empty."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryEditorMessageInvalidQuery">
+            <summary>
+                <para><b>Default value:</b> "Query validation failed with message:\r\n{0}\r\n\r\nTo discard this query and begin from scratch, click OK.\r\nTo close the visual editor and keep the current query, click Cancel."
+
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryEditorTitle">
+            <summary>
+                <para><b>Default value</b>: "Query Editor"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.QueryEditorWaitFormValidating">
+            <summary>
+                <para><b>Default value:</b> "Validating query..."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.RebuildResultSchemaConfirmationText">
+            <summary>
+                <para><b>Default value</b>: "Do you wish to execute the following queries on the server and obtain the resulting schema?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.SqlDataSourceDesignerVerbEditConnection">
+            <summary>
+                <para><b>Default value</b>: "Configure Connection..."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.SqlDataSourceDesignerVerbManageQueries">
+            <summary>
+                <para><b>Default value</b>: "Manage Queries..."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.SqlDataSourceDesignerVerbManageRelations">
+            <summary>
+                <para><b>Default value</b>: "Manage Relations..."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.SqlDataSourceDesignerVerbRebuildSchema">
+            <summary>
+                <para><b>Default value</b>: "Rebuild Schema"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.SqlDataSourceDesignerVerbRequestDatabaseSchema">
+            <summary>
+                <para><b>Default value</b>: "Request Database Schema"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardCannotConnectMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot connect to the database. See the details below."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardCannotCreateDataSourceMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot create an empty data source. Please select an object to include."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardCannotRetrieveDatabasesMessage">
+            <summary>
+                <para><b>Default value</b>: "Cannot retrieve the list of available databases. See the details below."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardConfirmExecutionMessage">
+            <summary>
+                <para><b>Default value</b>: "Do you wish to execute the query on the server and obtain the resulting query schema?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardCustomConnectionString">
+            <summary>
+                <para><b>Default value</b>: "Custom connection string"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardDataSourceCreatedMessage">
+            <summary>
+                <para><b>Default value</b>: "The data source has been successfully created"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardDataSourceEmptyNameMessage">
+            <summary>
+                <para><b>Default value</b>: "The data source name cannot be empty."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardDataSourceNameExistsMessage">
+            <summary>
+                <para><b>Default value</b>: "A data source with the specified name already exists"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardEmptyStoredProceduresListMessage">
+            <summary>
+                <para><b>Default value:</b> "There are no any stored procedures in current database."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardFinishPageText">
+            <summary>
+                <para><b>Default value</b>: "Select an object to include in your data source"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseConnection">
+            <summary>
+                <para><b>Default value</b>: "Do you wish to use an existing data connection?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseDSType">
+            <summary>
+                <para><b>Default value:</b> "Select the data source type."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseEFConnectionString">
+            <summary>
+                <para><b>Default value</b>: "Do you wish to select a connection string from the list of available settings?"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseEFContext">
+            <summary>
+                <para><b>Default value</b>: "Choose an existing data context or browse for an assembly."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseEFDataMember">
+            <summary>
+                <para><b>Default value</b>: "Select a data member"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseObjectAssembly">
+            <summary>
+                <para><b>Default value</b>: "Select an assembly containing the class type definition of a data source."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseObjectBindingMode">
+            <summary>
+                <para><b>Default value</b>: "Select the data binding mode."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseObjectConstructor">
+            <summary>
+                <para><b>Default value</b>: "Select a data source constructor."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseObjectMember">
+            <summary>
+                <para><b>Default value</b>: "Select a data source member (if required)."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageChooseObjectType">
+            <summary>
+                <para><b>Default value</b>: "Select a data source type."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageConfigureParameters">
+            <summary>
+                <para><b>Default value</b>: "Configure query parameters and preview the result."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageConfigureQuery">
+            <summary>
+                <para><b>Default value</b>: "Create a query or select a stored procedure."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageConfigureStoredProcedures">
+            <summary>
+                <para><b>Default value</b>: "Add stored procedures to the data source, configure their parameters and preview the result."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageConnectionProperties">
+            <summary>
+                <para><b>Default value</b>: "Select the data provider and specify the connection properties."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageEFConnectionProperties">
+            <summary>
+                <para><b>Default value:</b> "Specify a connection string."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageObjectConstructorParameters">
+            <summary>
+                <para><b>Default value</b>: "Specify the constructor parameters."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageObjectMemberParameters">
+            <summary>
+                <para><b>Default value</b>: "Specify the method parameters."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardPageSaveConnection">
+            <summary>
+                <para><b>Default value</b>: "Save the connection string."
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardTitleDatasource">
+            <summary>
+                <para><b>Default value:</b> "Data Source Wizard"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="F:DevExpress.DataAccess.UI.Localization.DataAccessUIStringId.WizardTitleODS">
+            <summary>
+                <para><b>Default value</b>: "ObjectDataSource Wizard"
+</para>
+            </summary>
+
+
+        </member>
+        <member name="T:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper">
+
+            <summary>
+                <para>Provides functionality to configure the connection to a <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> in code.
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.AddQuery(DevExpress.DataAccess.Sql.SqlDataSource)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to add a new query to the specified <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/>.
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> to which the resulting query will be added.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.AddQuery(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider,DevExpress.DataAccess.Wizard.Services.IParameterService)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to add a new query to the specified <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/>.
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> to which the resulting query will be added.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An object implementing the <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/> interface.
+
+            </param>
+            <param name="parameterService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IParameterService"/> interface.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.AddQuery(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to add a new query to the specified <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/>.
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> to which the resulting query will be added.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/>, providing access to the schema of the SQL data base.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.AddQuery(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to add a new query to the specified <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/>.
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> to which the resulting query will be added.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.AddQuery(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to add a new query to the specified <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/>.
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> to which the resulting query will be added.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnection(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnection(DevExpress.DataAccess.Sql.SqlDataSource)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>. 
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnection(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.Wizard.Services.IConnectionStorageService)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection. 
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window. 
+
+            </param>
+            <param name="connectionStorageService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IConnectionStorageService"/> interface. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnection(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection. 
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings. 
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnectionParameters(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> to edit the parameters used to establish a connection to a data base.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>. 
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnectionParameters(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> to edit the parameters used to establish a connection to a data base.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection. 
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings. 
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>. 
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnectionParameters(DevExpress.DataAccess.Sql.SqlDataSource)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> to edit the parameters used to establish a connection to a database.
+
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>. 
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ConfigureConnectionParameters(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.Wizard.Services.IConnectionStorageService)">
+            <summary>
+                <para>Invokes the <b>Connection Editor</b> to edit the parameters used to establish a connection to a database.
+
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection. 
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings. 
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window. 
+
+            </param>
+            <param name="connectionStorageService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IConnectionStorageService"/> interface. 
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>Finish</b> button; otherwise, <b>false</b>. 
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.EditQuery(DevExpress.DataAccess.Sql.SqlQuery,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to edit the specified query.
+</para>
+            </summary>
+            <param name="query">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlQuery"/> to be edited.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.EditQuery(DevExpress.DataAccess.Sql.SqlQuery,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider,DevExpress.DataAccess.Wizard.Services.IParameterService)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to edit the specified query.
+</para>
+            </summary>
+            <param name="query">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlQuery"/> object.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An object implementing the <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/> interface.
+
+            </param>
+            <param name="parameterService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IParameterService"/> interface.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.EditQuery(DevExpress.DataAccess.Sql.SqlQuery,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to edit the specified query.
+</para>
+            </summary>
+            <param name="query">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlQuery"/> to be edited.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.EditQuery(DevExpress.DataAccess.Sql.SqlQuery)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to edit the specified query.
+</para>
+            </summary>
+            <param name="query">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlQuery"/> to be edited.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.EditQuery(DevExpress.DataAccess.Sql.SqlQuery,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider)">
+            <summary>
+                <para>Invokes the <b>Query Designer</b> to edit the specified query.
+</para>
+            </summary>
+            <param name="query">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlQuery"/> to be edited.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/>, providing access to the schema of the SQL data base
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageQueries(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Manage Queries</b> dialog window with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageQueries(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Manage Queries</b> dialog window with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageQueries(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider,DevExpress.DataAccess.Wizard.Services.IParameterService)">
+            <summary>
+                <para>Invokes the <b>Manage Queries</b> dialog window with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An object implementing the <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/> interface.
+
+            </param>
+            <param name="parameterService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IParameterService"/> interface.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageQueries(DevExpress.DataAccess.Sql.SqlDataSource)">
+            <summary>
+                <para>Invokes the <b>Manage Queries</b> dialog window with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageQueries(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider)">
+            <summary>
+                <para>Invokes the <b>Manage Queries</b> dialog window with the specified settings.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An object implementing the <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/> interface.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageRelations(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window)">
+            <summary>
+                <para>Invokes the <b>Master-Detail Relations Editor</b> to specify the key data fields by which a pair of queries is related.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageRelations(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel)">
+            <summary>
+                <para>Invokes the <b>Master-Detail Relations Editor</b> to specify the key data fields by which a pair of queries is related.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageRelations(DevExpress.DataAccess.Sql.SqlDataSource)">
+            <summary>
+                <para>Invokes the <b>Master-Detail Relations Editor</b> to specify the key data fields by which a pair of queries is related.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.ManageRelations(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.IDBSchemaProvider)">
+            <summary>
+                <para>Invokes the <b>Master-Detail Relations Editor</b> to specify the key data fields by which a pair of queries is related.
+</para>
+            </summary>
+            <param name="sqlDataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="dbSchemaProvider">
+		An object implementing the <see cref="T:DevExpress.DataAccess.IDBSchemaProvider"/> interface.
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.DataAccess.UI.Sql.SqlDataSourceUIHelper.RebuildResultSchema(DevExpress.DataAccess.Sql.SqlDataSource,DevExpress.LookAndFeel.UserLookAndFeel,System.Windows.Forms.IWin32Window,DevExpress.DataAccess.Wizard.Services.IParameterService,System.Boolean)">
+            <summary>
+                <para>Updates the data source schema available on the client in accordance to the current data source structure.
+
+</para>
+            </summary>
+            <param name="dataSource">
+		A <see cref="T:DevExpress.DataAccess.Sql.SqlDataSource"/> object, specifying the database connection.
+
+            </param>
+            <param name="lookAndFeel">
+		A <see cref="T:DevExpress.LookAndFeel.UserLookAndFeel"/> object, specifying the application's look and feel settings.
+
+            </param>
+            <param name="owner">
+		An object implementing the <see cref="T:System.Windows.Forms.IWin32Window"/> interface that is the owner of the current dialog window.
+
+            </param>
+            <param name="parameterService">
+		An object implementing the <see cref="T:DevExpress.DataAccess.Wizard.Services.IParameterService"/> interface.
+
+            </param>
+            <param name="showSuccessMessage">
+		<b>true</b> to acknowledge the task completion upon successfully updating the schema; otherwise <b>false</b>.
+
+
+            </param>
+            <returns><b>true</b>, if the dialog was finished by clicking the <b>OK</b> button; otherwise, <b>false</b>.
+</returns>
+
+
+        </member>
+    </members>
+</doc>

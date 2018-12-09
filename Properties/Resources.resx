@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="gta_IV_logo_transparent_49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gta_IV_logo_transparent_49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage18.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battlefield_3_text_logo_png_by_ahmed7193-d45xqxz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battlefield_3_text_logo_png_by_ahmed7193-d45xqxz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark-souls-II-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dark-souls-II-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AWCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AWCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grand_theft_auto_san_andreas_conceptart_Xncfw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grand_theft_auto_san_andreas_conceptart_Xncfw.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acr_08_by_drazebot_d8a5djz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acr_08_by_drazebot-d8a5djz.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1502423371843522" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1502423371843521.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FarCry41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FarCry41.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Call-of-Duty-5-World-of-War-Thompson-Machine-Gunner-Firing.png~c200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Call-of-Duty-5-World-of-War-Thompson-Machine-Gunner-Firing.png~c200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrow(right)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrow(right)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1280px-ModernWarfare3Logo.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1280px-ModernWarfare3Logo.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImages" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImages.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Red-Dead-Redemption-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red-Dead-Redemption-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GTA_San_Andreas_Kovrilo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GTA_San_Andreas_Kovrilo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eboots_Library_V2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eboots_Library_V2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="custom_settings-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\custom_settings-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gear_-_Noun_project_71371" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gear_-_Noun_project_7137.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scorpion-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scorpion-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="34288-grand-theft-auto-iv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\34288-grand-theft-auto-iv.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Settings Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Settings Icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SPCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SPCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="borderlands-2logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\borderlands-2logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avatar2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avatar2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ebootimage11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ebootimage11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TLOUCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TLOUCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avatar4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avatar4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back-undo-return-button-png-5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back-undo-return-button-png-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skate_3_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skate_3_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="normal_Call_of_Duty_-_Black_Ops~1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\normal_Call_of_Duty_-_Black_Ops~1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BF4Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BF4Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SkyrimCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SkyrimCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Battlefield_4_logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Battlefield_4_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Call_of_Duty_Ghosts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Call_of_Duty_Ghosts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notepad-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Notepad-logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrowrightdown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrowrightdown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The-Elder-Scrolls-V-Skyrim-PNG-File" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The-Elder-Scrolls-V-Skyrim-PNG-File.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage23" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage23.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="th" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\th.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COD-MW3-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\COD-MW3-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="38700915-call-of-duty-advanced-warfare-wallpapers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\38700915-call-of-duty-advanced-warfare-wallpapers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avatar5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avatar5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="filezilla-logo-800x400-750x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\filezilla-logo-800x400-750x400.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="call_of_duty_black_ops_2_zombies_logo_another_2nd__by_josael281999-d7e3tk1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\call_of_duty_black_ops_2_zombies_logo_another_2nd__by_josael281999-d7e3tk1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GTA4Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GTA4Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrow (right)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrow (right).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="COD4Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\COD4Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="call_of_duty__black_ops_ii__text__by_imperial96-d66bqbr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\call_of_duty__black_ops_ii__text__by_imperial96-d66bqbr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avatar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avatar1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="farcry4_temple_entrance_by_donglu_yu_additions_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\farcry4_temple_entrance_by_donglu_yu_additions_01.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RogueCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RogueCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_fox12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_fox12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The_Last_of_Us_Logo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The_Last_of_Us_Logo_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skyrim-Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skyrim-Logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MCCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MCCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Running-fox-silhouette-KcjeeEndi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Running-fox-silhouette-KcjeeEndi.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_fox122" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_fox122.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PS3ITA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PS3ITA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="borderlands-2-logo-no-background-wallpaper-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\borderlands-2-logo-no-background-wallpaper-4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BF3Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BF3Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage24.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrow (right)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrow (right)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrowrightdown1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrowrightdown1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red-arrow-curved-upright" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red-arrow-curved-upright.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GhostsCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GhostsCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FarCryCase1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FarCryCase1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BFBC2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BFBC2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Call-of-Duty-Black-Ops-PNG-Transparent-Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Call-of-Duty-Black-Ops-PNG-Transparent-Image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GTA5-Article-Top" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GTA5-Article-Top.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="callofduty4-logo-large" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\callofduty4-logo-large.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="justcause2-header" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\justcause2-header.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-online-chat-computer-icons-chat-room-discussion-gr-science-fiction-fonts-5ad82abf9325e4.9522915215241161596027" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-online-chat-computer-icons-chat-room-discussion-gr-science-fiction-fonts-5ad82abf9325e4.9522915215241161596027.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BO3Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BO3Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DS2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DS2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BFHardlineCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BFHardlineCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BO2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BO2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rdr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rdr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Post-it_Notes-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Post-it_Notes-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StickOfTruthLogo-Small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StickOfTruthLogo-Small.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="playstation-3-art" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playstation-3-art.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Screenshot_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage16.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GTAVCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GTAVCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="maxresdefault1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\maxresdefault1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BO1Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BO1Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gear_-_Noun_project_71372" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gear_-_Noun_project_7137.svg2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WAWCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WAWCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Saints-Row-The-Third-Name-Logo-1-psd67279" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Saints-Row-The-Third-Name-Logo-1-psd67279.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="140e773b-5011-4810-ba67-6efa9eb6b124" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\140e773b-5011-4810-ba67-6efa9eb6b124.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Battlefield-Hardline-PNG-HD334" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Battlefield-Hardline-PNG-HD334.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Big-Icon4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Big-Icon4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contact Us Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Contact Us Icon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Minecraft-logo-transparent-background-ut05tirq" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Minecraft-logo-transparent-background-ut05tirq.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="saints-row-the-third-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\saints-row-the-third-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gtk-close" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gtk-close.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="87964724814713893173" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\87964724814713893173.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gta_v_logo_transparent_49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gta_v_logo_transparent_49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gear_-_Noun_project_7137.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gear_-_Noun_project_7137.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Battlefield-Bad-Company-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Battlefield-Bad-Company-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battlefield-3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battlefield-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="section1_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\section1_blue.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="black-ops-3-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\black-ops-3-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="580b57fbd9996e24bc43bbfa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\580b57fbd9996e24bc43bbfa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MW2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MW2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dragon_Quest_Monsters_Joker_2_OST___Doubtback" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dragon Quest Monsters Joker 2 OST - Doubtback.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="call_of_duty_ghost_wallpaper_by_creatoricon-d6vfk91" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\call_of_duty_ghost_wallpaper_by_creatoricon-d6vfk91.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2593_south-park-the-stick-of-truth-prev" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2593_south-park-the-stick-of-truth-prev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ACROGUE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ACROGUE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Eboots_Library" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Eboots_Library.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="150242337184352" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\150242337184352.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1502423371843521" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\150242337184352.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="battlefield-4-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\battlefield-4-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage19.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CoDWW_Logo_(transparent)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CoDWW_Logo_(transparent).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1488160614" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1488160614.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bo2tile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bo2tile.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo-dark-souls" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-dark-souls.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1502423371843523" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1502423371843522.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JC2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JC2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Arrow(right)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Arrow(right).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zombie_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zombie_7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BL2Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BL2Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="disconnect-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\disconnect-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MW3Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MW3Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bfbc2-logo-pt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bfbc2-logo-pt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SR3Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SR3Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GTASA_Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GTASA-Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="31646419-bo3-logonvadfnvja-820x400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\31646419-bo3-logonvadfnvja-820x400.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="newlogow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\newlogow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Skate3Case" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Skate3Case.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="skate-3-boxart-logo-17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skate-3-boxart-logo-17.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Avatar3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Avatar3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RDRCase" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RDRCase.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="call-of-duty-black-ops-logo-vectorgames---call-of-duty-black-ops-wallpapers-hd-wallpapers-msxu0qig" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\call-of-duty-black-ops-logo-vectorgames---call-of-duty-black-ops-wallpapers-hd-wallpapers-msxu0qig.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="14881606141" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\14881606141.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondtu10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondtu10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="THELA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\THELA.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="640px_Call_of_Duty_Advanced_Warfare_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\640px_Call_of_Duty_Advanced_Warfare_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EbootImage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\EbootImage1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red_fox121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red_fox121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Screenshot_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Screenshot_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,150 @@
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\PS3Lib.dll
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ps3tmapi_net.dll
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+c:\users\brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\documents\visual studio 2013\Projects\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csproj.GenerateResource.Cache
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe.config
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.pdb
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.exe
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ProjectRunningFox.pdb
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.BonusSkins.v14.2.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Sparkline.v14.2.Core.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.Utils.v14.2.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraBars.v14.2.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\DevExpress.XtraEditors.v14.2.xml
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Sparkline.v14.2.Core.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.Utils.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraBars.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\de\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\es\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ja\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\ru\DevExpress.XtraEditors.v14.2.resources.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form1.resources
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Properties.Resources.resources
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csproj.GenerateResource.Cache
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.exe.licenses
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\AutoUpdater.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\GHOSTSRPC.dll
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\AutoUpdater.pdb
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csprojResolveAssemblyReference.cache
+C:\Users\brand\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form2.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\AutoUpdater.pdb
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.Form2.resources
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\bin\Debug\AutoUpdater.dll
+C:\Users\Brandon\Dropbox\My Stuff\Programming\Sources\ProjectRunningFox\ProjectRunningFox\obj\Debug\ProjectRunningFox.csprojResolveAssemblyReference.cache
